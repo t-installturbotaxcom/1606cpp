@@ -7,9 +7,9 @@ $1,606 CPP Disability: How to Qualify and Claim It Easily
    :description: Learn how to qualify and apply for the $1,606 CPP Disability Benefit in 2025. Follow this easy step-by-step guide to claim the monthly payment you're entitled to.
 
 .. image:: applynow.png
-   :width: 350px
+   :width: 250px
    :align: center
-   :height: 100px
+   :height: 70px
    :target: https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fhow-to-apply-for-1606-cpp-disability-benefit-amount%2F
 
 .. raw:: html
